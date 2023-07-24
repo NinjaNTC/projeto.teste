@@ -6,9 +6,9 @@ function toggleMode () {
 
     if(html.classList.contains("light")) {
         // O que acontece se a classlist tiver "light"
-    img.setAttribute("src","./assets/Avatar-light.png")
+    img.setAttribute("src","./assets/Avatar Guaxinim Vermelho.png")
     } else{
-    img.setAttribute("src","./assets/Avatar.png")
+    img.setAttribute("src","./assets/Avatar Guaxinim Vermelho.png")
     }
   
     const alt = document.querySelector("#profile img")
